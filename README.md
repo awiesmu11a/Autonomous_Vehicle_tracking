@@ -1,12 +1,12 @@
 # Autonomous_Vehicle_tracking
 ## Results
 
-* Loss
+### Loss
 ![MLP Training and Validation Loss](./report/mlp_error.png)
 
 ![LSTM Training and Validation Loss](./report/lstm_error.png)
 
-* Trajectories
+### Trajectories
 
 ![MLP Training Example](./report/mlp_1.png)
 
